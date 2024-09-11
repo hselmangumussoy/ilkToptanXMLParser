@@ -1,5 +1,6 @@
-package com.hsgumussoy.testforilktoptan;
+package com.hsgumussoy.testforilktoptan.entity;
 
+import com.hsgumussoy.testforilktoptan.entity.Product;
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
